@@ -152,7 +152,6 @@ dmypy.json
 textcontainer.py
 **/api_keys.py
 **/global_warming.py
-**/my_modules/
 example.html
 credentials.json
 token.pickle
