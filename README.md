@@ -19,7 +19,7 @@ Preliminary Class schedule is shown below (subject to change)
 |Week 11<br/>09-03-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|Webscraping Basics, Regular Expr. & Selenium|[Ex 7](https://docs.google.com/document/d/1ojSiBWwLo4-Rc7763vx6aVEYdNluATOMja9qqk4dodU/edit?usp=sharing)|
 |Week 12<br/>16-03-2020|Class A: Monday 8:30-12:00<br/>Class B: Tuesday 12:30-16:00|Database and web service|NaN|
 |Week 13<br/>23-03-2020|Class A: Monday 8:30-12:00<br/>Class B: Tuesday 12:30-16:00|Graphs & PageRank Algorithm|NaN|
-|Week 14<br/>30-03-2020|Monday 8:30-12:00|Feature spaces|NaN|
+|Week 14<br/>30-03-2020|Monday 8:30-12:00|Feature spaces|[Ex 10](https://github.com/datsoftlyngby/dat4sem2020spring-python/blob/master/notebooks/Ugeopgave%2010.ipynb)|
 |Week 15<br/>|PÅSKE|
 |Week 16<br/>13-04-2020|Tuesday 12:30 via zoom **both classes**|Neural Networks|NaN|
 |Week 17<br/>20-04-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|Image Processing with OpenCV|NaN|
