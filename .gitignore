@@ -168,6 +168,5 @@ old_exercises/2018/
 old_exercises/2018s/
 twitter_combined.txt.gz
 __pycache__/
-**/*.txt
-**/*.csv
+
 
