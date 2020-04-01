@@ -10,16 +10,16 @@ Preliminary Class schedule is shown below (subject to change)
 
 |Week|Time|Topic|Hand-in|
 |--|--|--|--|
-|Week 5<br/>27-01-2020|Class A: Monday 8:30-12:00<br/>Class B: Tuesday 12:30-16:00|Getting started, Python language features|[Ex 1](https://github.com/datsoftlyngby/dat4sem2020spring-python/blob/master/01-Exercise.ipynb)|
-|Week 6<br/>03-02-2020|Class A: Monday 8:30-12:00<br/>Class B: Tuesday 12:30-16:00|Whirlwind, Lists, Loops, Cond. Stmts., Functions, Modules|[Ex 2](https://github.com/datsoftlyngby/dat4sem2020spring-python/blob/master/02-Exercise.ipynb)|
-|Week 7<br/>10-02-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|OO, Exceptions, plotting|[Ex 3](https://github.com/datsoftlyngby/dat4sem2020spring-python/blob/master/03-Exercise.ipynb)|
-|Week 8<br/>17-02-2020|Video lectures **No Class**|Intro to Numpy|[Ex 4](https://github.com/datsoftlyngby/dat4sem2020spring-python/blob/master/04-Exercise.ipynb)|
-|Week 9<br/>24-02-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|Intro to Pandas|[Ex 5](https://github.com/datsoftlyngby/dat4sem2020spring-python/blob/master/05-Exercise.ipynb)|
-|Week 10<br/>02-03-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|Multiprocessing, generators and intro to Requests|[Ex 6](https://github.com/datsoftlyngby/dat4sem2020spring-python/blob/master/06%20Exercise.ipynb)|
+|Week 5<br/>27-01-2020|Class A: Monday 8:30-12:00<br/>Class B: Tuesday 12:30-16:00|Getting started, Python language features|[Ex 1](notebooks/01-Exercise.ipynb)|
+|Week 6<br/>03-02-2020|Class A: Monday 8:30-12:00<br/>Class B: Tuesday 12:30-16:00|Whirlwind, Lists, Loops, Cond. Stmts., Functions, Modules|[Ex 2](notebooks/02-Exercise.ipynb)|
+|Week 7<br/>10-02-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|OO, Exceptions, plotting|[Ex 3](notebooks/03-Exercise.ipynb)|
+|Week 8<br/>17-02-2020|Video lectures **No Class**|Intro to Numpy|[Ex 4](notebooks/04-Exercise.ipynb)|
+|Week 9<br/>24-02-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|Intro to Pandas|[Ex 5](notebooks/05-Exercise.ipynb)|
+|Week 10<br/>02-03-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|Multiprocessing, generators and intro to Requests|[Ex 6](notebooks/06-Exercise.ipynb)|
 |Week 11<br/>09-03-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|Webscraping Basics, Regular Expr. & Selenium|[Ex 7](https://docs.google.com/document/d/1ojSiBWwLo4-Rc7763vx6aVEYdNluATOMja9qqk4dodU/edit?usp=sharing)|
-|Week 12<br/>16-03-2020|Class A: Monday 8:30-12:00<br/>Class B: Tuesday 12:30-16:00|Database and web service|NaN|
-|Week 13<br/>23-03-2020|Class A: Monday 8:30-12:00<br/>Class B: Tuesday 12:30-16:00|Graphs & PageRank Algorithm|NaN|
-|Week 14<br/>30-03-2020|Monday 8:30-12:00|Feature spaces|[Ex 10](https://github.com/datsoftlyngby/dat4sem2020spring-python/blob/master/notebooks/Ugeopgave%2010.ipynb)|
+|Week 12<br/>16-03-2020|Class A: Monday 8:30-12:00<br/>Class B: Tuesday 12:30-16:00|Database and web service|[google sheet](https://docs.google.com/spreadsheets/d/10HYM2KRqslBTQjkcz8B0ooz4TnnXd4n5xxFsSl9saZQ/edit#gid=0)|
+|Week 13<br/>23-03-2020|Class A: Monday 8:30-12:00<br/>Class B: Tuesday 12:30-16:00|Graphs & PageRank Algorithm|[Ex 9](notebooks/Facebook_exercise.ipynb)|
+|Week 14<br/>30-03-2020|Monday 8:30-12:00|Feature spaces|[Ex 10](notebooks/Ugeopgave-10.ipynb)|
 |Week 15<br/>|PÅSKE|
 |Week 16<br/>13-04-2020|Tuesday 12:30 via zoom **both classes**|Neural Networks|NaN|
 |Week 17<br/>20-04-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|Image Processing with OpenCV|NaN|
