@@ -21,7 +21,7 @@ Preliminary Class schedule is shown below (subject to change)
 |Week 13<br/>23-03-2020|Class A: Monday 8:30-12:00<br/>Class B: Tuesday 12:30-16:00|Graphs & PageRank Algorithm|[Ex 9](notebooks/Facebook_exercise.ipynb)|
 |Week 14<br/>30-03-2020|Monday 8:30-12:00|Feature spaces|[Ex 10](notebooks/Ugeopgave-10.ipynb)|
 |Week 15<br/>|PÅSKE|
-|Week 16<br/>13-04-2020|Tuesday 12:30 via zoom **both classes**|Neural Networks|NaN|
+|Week 16<br/>13-04-2020|Tuesday 12:30 via zoom **both classes**|Neural Networks|[Ex 11](notebooks/11-1-Exercise-Perceptrons.ipynb)|
 |Week 17<br/>20-04-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|Image Processing with OpenCV|NaN|
 |Week 18<br/>27-04-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|Movement Detection|NaN|
 |Week 19<br/>04-05-2020|Class A: Monday 8:30-12:00<br/>Class B: Monday 12:30-16:00|Exam Project period|None|
