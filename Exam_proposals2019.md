@@ -17,18 +17,30 @@ på vivino.com
 
 
 ## Proposal 2
-Part 1
-For the first part of our exam project we will be making a program, that using OpenCV, can detect the suit and rank of a standard playing card
-Part 2
-For the second part of our exam project we will build and train a neural network with tensorflow, that given the suit and rank of each card in a hand of 5 playing cards, can tell the poker hand they make Data from: https://archive.ics.uci.edu/ml/datasets/Poker+Hand
-Part 3
-For the third part of the project we will combine part 1 and part 2 to make a program, that given an image of a 5 card hand of playing cards can tell the poker hand "
+- Part 1
+  - For the first part of our exam project we will be making a program, that using OpenCV, can detect the suit and rank of a standard playing card
+- Part 2
+  - For the second part of our exam project we will build and train a neural network with tensorflow, that given the suit and rank of each card in a hand of 5 playing cards, can tell the poker hand they make Data from: https://archive.ics.uci.edu/ml/datasets/Poker+Hand
+- Part 3
+  - For the third part of the project we will combine part 1 and part 2 to make a program, that given an image of a 5 card hand of playing cards can tell the poker hand "
 
 
 
 ## Proposal 3
-et projekt der omhandler Natural Language Processing.
+- et projekt der omhandler Natural Language Processing.
 Herunder vil vi komme ind på data cleaning, frasortering af stopwords, forskellige former for tekstanalyse samt sammenligning af forskellige tekster."
+
+### summary
+Using technologies from the whole semester, we want to build a natural language processing script that can clean, analyze and visualize textdata.
+
+#### Installation Guide:
+Download wordcloud:
+`conda install -c conda-forge wordcloud`
+Download textblob:
+`conda install -c conda-forge textblob`
+Download gensim: (We probably wont use this)
+`conda install -c conda-forge gensim`
+
 
 ## Proposal 4
 "Human tetris
