@@ -33,6 +33,20 @@ Herunder vil vi komme ind på data cleaning, frasortering af stopwords, forskell
 ### summary
 Using technologies from the whole semester, we want to build a natural language processing script that can clean, analyze and visualize textdata.
 
+Based on State of The Union speeches from the ten latest presidents, can we see if Trump stands out in any way?
+Also, can we by analyzing the data derive other interesting insights?
+
+1. Data Cleaning
+Webscraping, data cleaning, saving to pickle
+
+
+2. Data Analysis
+Read pickles, analyze speeches, word clouds
+
+
+3. Sentiment Analysis
+Analyze sentiment values, (positivity, negativty) and (facts, opinions)
+
 #### Installation Guide:
 Download wordcloud:
 `conda install -c conda-forge wordcloud`
